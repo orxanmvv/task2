@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\tekvecutededlerarrey\tekvecutededlerarrey\bin\Debug\net8.0\tekvecutededlerarrey.exe
+C:\Users\User\source\repos\tekvecutededlerarrey\tekvecutededlerarrey\bin\Debug\net8.0\tekvecutededlerarrey.deps.json
+C:\Users\User\source\repos\tekvecutededlerarrey\tekvecutededlerarrey\bin\Debug\net8.0\tekvecutededlerarrey.runtimeconfig.json
+C:\Users\User\source\repos\tekvecutededlerarrey\tekvecutededlerarrey\bin\Debug\net8.0\tekvecutededlerarrey.dll
+C:\Users\User\source\repos\tekvecutededlerarrey\tekvecutededlerarrey\bin\Debug\net8.0\tekvecutededlerarrey.pdb
+C:\Users\User\source\repos\tekvecutededlerarrey\tekvecutededlerarrey\obj\Debug\net8.0\tekvecutededlerarrey.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\tekvecutededlerarrey\tekvecutededlerarrey\obj\Debug\net8.0\tekvecutededlerarrey.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\tekvecutededlerarrey\tekvecutededlerarrey\obj\Debug\net8.0\tekvecutededlerarrey.AssemblyInfo.cs
+C:\Users\User\source\repos\tekvecutededlerarrey\tekvecutededlerarrey\obj\Debug\net8.0\tekvecutededlerarrey.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\tekvecutededlerarrey\tekvecutededlerarrey\obj\Debug\net8.0\tekvecutededlerarrey.dll
+C:\Users\User\source\repos\tekvecutededlerarrey\tekvecutededlerarrey\obj\Debug\net8.0\refint\tekvecutededlerarrey.dll
+C:\Users\User\source\repos\tekvecutededlerarrey\tekvecutededlerarrey\obj\Debug\net8.0\tekvecutededlerarrey.pdb
+C:\Users\User\source\repos\tekvecutededlerarrey\tekvecutededlerarrey\obj\Debug\net8.0\tekvecutededlerarrey.genruntimeconfig.cache
+C:\Users\User\source\repos\tekvecutededlerarrey\tekvecutededlerarrey\obj\Debug\net8.0\ref\tekvecutededlerarrey.dll

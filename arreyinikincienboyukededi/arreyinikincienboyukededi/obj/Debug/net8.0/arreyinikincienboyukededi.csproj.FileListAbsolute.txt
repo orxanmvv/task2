@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\arreyinikincienboyukededi\arreyinikincienboyukededi\bin\Debug\net8.0\arreyinikincienboyukededi.exe
+C:\Users\User\source\repos\arreyinikincienboyukededi\arreyinikincienboyukededi\bin\Debug\net8.0\arreyinikincienboyukededi.deps.json
+C:\Users\User\source\repos\arreyinikincienboyukededi\arreyinikincienboyukededi\bin\Debug\net8.0\arreyinikincienboyukededi.runtimeconfig.json
+C:\Users\User\source\repos\arreyinikincienboyukededi\arreyinikincienboyukededi\bin\Debug\net8.0\arreyinikincienboyukededi.dll
+C:\Users\User\source\repos\arreyinikincienboyukededi\arreyinikincienboyukededi\bin\Debug\net8.0\arreyinikincienboyukededi.pdb
+C:\Users\User\source\repos\arreyinikincienboyukededi\arreyinikincienboyukededi\obj\Debug\net8.0\arreyinikincienboyukededi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\arreyinikincienboyukededi\arreyinikincienboyukededi\obj\Debug\net8.0\arreyinikincienboyukededi.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\arreyinikincienboyukededi\arreyinikincienboyukededi\obj\Debug\net8.0\arreyinikincienboyukededi.AssemblyInfo.cs
+C:\Users\User\source\repos\arreyinikincienboyukededi\arreyinikincienboyukededi\obj\Debug\net8.0\arreyinikincienboyukededi.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\arreyinikincienboyukededi\arreyinikincienboyukededi\obj\Debug\net8.0\arreyinikincienboyukededi.dll
+C:\Users\User\source\repos\arreyinikincienboyukededi\arreyinikincienboyukededi\obj\Debug\net8.0\refint\arreyinikincienboyukededi.dll
+C:\Users\User\source\repos\arreyinikincienboyukededi\arreyinikincienboyukededi\obj\Debug\net8.0\arreyinikincienboyukededi.pdb
+C:\Users\User\source\repos\arreyinikincienboyukededi\arreyinikincienboyukededi\obj\Debug\net8.0\arreyinikincienboyukededi.genruntimeconfig.cache
+C:\Users\User\source\repos\arreyinikincienboyukededi\arreyinikincienboyukededi\obj\Debug\net8.0\ref\arreyinikincienboyukededi.dll

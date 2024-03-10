@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\enboyukededarrey\enboyukededarrey\bin\Debug\net8.0\enboyukededarrey.exe
+C:\Users\User\source\repos\enboyukededarrey\enboyukededarrey\bin\Debug\net8.0\enboyukededarrey.deps.json
+C:\Users\User\source\repos\enboyukededarrey\enboyukededarrey\bin\Debug\net8.0\enboyukededarrey.runtimeconfig.json
+C:\Users\User\source\repos\enboyukededarrey\enboyukededarrey\bin\Debug\net8.0\enboyukededarrey.dll
+C:\Users\User\source\repos\enboyukededarrey\enboyukededarrey\bin\Debug\net8.0\enboyukededarrey.pdb
+C:\Users\User\source\repos\enboyukededarrey\enboyukededarrey\obj\Debug\net8.0\enboyukededarrey.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\enboyukededarrey\enboyukededarrey\obj\Debug\net8.0\enboyukededarrey.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\enboyukededarrey\enboyukededarrey\obj\Debug\net8.0\enboyukededarrey.AssemblyInfo.cs
+C:\Users\User\source\repos\enboyukededarrey\enboyukededarrey\obj\Debug\net8.0\enboyukededarrey.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\enboyukededarrey\enboyukededarrey\obj\Debug\net8.0\enboyukededarrey.dll
+C:\Users\User\source\repos\enboyukededarrey\enboyukededarrey\obj\Debug\net8.0\refint\enboyukededarrey.dll
+C:\Users\User\source\repos\enboyukededarrey\enboyukededarrey\obj\Debug\net8.0\enboyukededarrey.pdb
+C:\Users\User\source\repos\enboyukededarrey\enboyukededarrey\obj\Debug\net8.0\enboyukededarrey.genruntimeconfig.cache
+C:\Users\User\source\repos\enboyukededarrey\enboyukededarrey\obj\Debug\net8.0\ref\enboyukededarrey.dll
